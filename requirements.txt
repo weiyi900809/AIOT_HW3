@@ -1,0 +1,23 @@
+# Logistic Regression Phishing Detector
+# Requirements for train_phishing_model.py and streamlit_app.py
+# Python >= 3.7
+
+# 核心數據處理與計算
+numpy==1.26.2
+pandas==2.1.4
+scipy==1.11.4
+
+# 機器學習套件
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# 數據可視化
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Streamlit Web 應用框架
+streamlit==1.29.0
+
+# 其他工具
+python-dateutil==2.8.2
+pytz==2023.3
